@@ -1,1 +1,2 @@
-# projekt-kodland.
+#zrobic discordowego bota przypietego do ai
+
